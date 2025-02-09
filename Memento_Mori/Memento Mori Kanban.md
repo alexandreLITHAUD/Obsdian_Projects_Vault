@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] Extension de fichier maison ? Ou gotmpl?
 - [ ] Commande nom. ce qu'elle fait. puis param
 - [ ] [[Main Page UI MM]]
+- [ ] Test de git
 
 
 ## Todo 🎯
