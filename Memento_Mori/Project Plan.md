@@ -105,6 +105,7 @@ commands:
     syntax: "git init [directory]"
     parameters:
       - name: "directory"
+        required: false
         description: "Optional directory to initialize"
     examples:
       - "git init"
