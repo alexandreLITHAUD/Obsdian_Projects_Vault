@@ -18,6 +18,16 @@ kanban-plugin: board
 
 ## Todo 🎯
 
+- [ ] Create project
+- [ ] Create nsmaespace window model
+- [ ] Create commands window
+- [ ] Create yaml perser
+- [ ] Sync parser with model
+- [ ] Create interaction with model for namespace window
+- [ ] Cretae interaction with model with command window
+- [ ] Cretae documentation
+- [ ] Create command completion
+- [ ] Finalise command in bash
 
 
 ## Doing 🛳
